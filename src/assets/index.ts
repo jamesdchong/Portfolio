@@ -36,6 +36,8 @@ import arcade from './projects/Arcade.jpg';
 import eventlife from './projects/EventLife.jpg';
 import tritontalk from './projects/TritonTalk.jpg';
 
+import resume from './JamesChongResume.pdf'
+
 export {
   logo,
   menu,
@@ -69,5 +71,6 @@ export {
   car,
   arcade,
   eventlife,
-  tritontalk
+  tritontalk,
+  resume
 };
