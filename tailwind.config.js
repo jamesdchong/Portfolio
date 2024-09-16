@@ -18,8 +18,8 @@ export const theme = {
       xs: "450px",
     },
     backgroundImage: {
-      "hero-pattern-dark": "url('/src/assets/herobgdark.png')",
-      "hero-pattern-light": "url('/src/assets/herobglight.jpg')",
+      "hero-pattern-dark": "url('/src/assets/herobgdark.webp')",
+      "hero-pattern-light": "url('/src/assets/herobglight.webp')",
     },
   },
 };
