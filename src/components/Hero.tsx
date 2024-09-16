@@ -16,7 +16,7 @@ const Hero = () => {
 						<h1 className={`${styles.heroHeadText} ${isLight ? "text-black-100" : "text-white-100"}`}>Hi, I'm <span className="text-[#2548e3]">James.</span></h1>
 						<div className='flex gap-5 md:gap-7 justify-start items-center'>
 							<a
-								href="JamesChongResume.pdf"
+								href="src/assets/JamesChongResume.pdf"
 								className={`${isLight ? "bg-black-200 text-white-100" : "bg-white-100 text-black-200"} hover:scale-105 text-xs md:text-lg font-semibold p-3 rounded-xl`}
 								target="_blank"
 								rel="noopener noreferrer"
